@@ -258,7 +258,7 @@ This project was informed by:
 This project was developed as part of my self-directed cybersecurity education in 2024. For questions about responsible security research or this educational project, feel free to reach out.
 
 **Author:** Sidakdeep Singh Chahal
-**GitHub:** [@CrapperDapper](https://github.com/CrapperDapper)
+**GitHub:** [@Sidakdeep-S-Chahal](https://github.com/Sidakdeep-S-Chahal)
 
 ---
 
